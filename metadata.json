@@ -1,0 +1,6 @@
+{
+  "name": "대한민국 실시간 이슈 지도 & 시민 언론 신문고",
+  "description": "한국 전역의 실시간 사건·이슈 위치 마킹 및 현장 사진 공유 타임라인. 검열 없는 자유로운 시민 발언대와 위치별 토론 광장.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
